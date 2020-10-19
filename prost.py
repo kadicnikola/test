@@ -11,4 +11,3 @@ def je_prost(br):
         i=i+1
     return True
 
-print(je_prost(24))
